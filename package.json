@@ -1,0 +1,26 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiofariaishia/projeto-nodejs-rest.git"
+  },
+  "keywords": [
+    "nodejs",
+    "rest"
+  ],
+  "author": "Fabio Faria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiofariaishia/projeto-nodejs-rest/issues"
+  },
+  "homepage": "https://github.com/fabiofariaishia/projeto-nodejs-rest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
